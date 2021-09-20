@@ -1,0 +1,17 @@
+
+{
+    "_QPVersion": "0.1.1",
+    "name": "Bang Bang",
+    "id": "BangBang",
+    "author": "Inferno._.",
+    "version": "0.6.6",
+    "packageId": "com.beatgames.beatsaber",
+    "packageVersion": "1.17.1",
+    "description": "Gun go bang bang block go bye bye",
+    "modFiles": [
+        "libBangBang.so"
+    ],
+    "libraryFiles": [
+        "libbeatsaber-hook_1_2_4.so"
+    ]
+}
